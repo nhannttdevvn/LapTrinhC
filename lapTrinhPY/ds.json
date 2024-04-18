@@ -1,0 +1,16 @@
+[
+    {
+        "name": "1",
+        "age": "1",
+        "gender": "1",
+        "address": "1",
+        "level": "1"
+    },
+    {
+        "name": "2",
+        "age": "3",
+        "gender": "2",
+        "address": "2",
+        "major": "2"
+    }
+]

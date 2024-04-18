@@ -11,15 +11,3 @@ int main()
   cout << "Dien Tich duong tron: " << dienTich;
   return 0;
 }
-{
-  int tuoiHienTai, namHienTai, namKhac;
-  cout << "Nhap tuoi hien tai: ";
-  cin >> tuoiHienTai;
-  cout <<"Nhap nam hien tai: ";
-  cin >> namHienTai;
-  cout <<"Nhap nam khac: ";
-  cin >> namKhac;
-  int tuoiKhac = (namKhac-namHienTai) + tuoiHienTai;
-  cout << "Nam " << namKhac <<" ban " << tuoiKhac << " tuoi. ";
-  return 0;
-}
